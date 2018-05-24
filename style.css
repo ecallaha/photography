@@ -7,3 +7,25 @@ body {
 h1 {
 	text-align: center;
 }
+
+p {
+    margin: .4em 1.5em .4em 1.5em;
+    font-size: 1.2em;
+    font-weight: normal;
+    line-height: 1.7em;
+    color: inherit;
+}
+
+a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+a:link {
+    color: #a8d;
+}
+
+a:visited {
+    color: #d8a;
+}
